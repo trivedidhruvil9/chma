@@ -4,7 +4,7 @@ CHMA -  Centralized HealthCare Management & Analysis
 
 
 
-CHMA is an initiative for managing healthcare data of each and every individual people on a centralized platform. 
+CHMA is an initiative for managing and analyzing healthcare data of each and every individual people on a centralized platform. 
 
 *******************
 Purpose & Goal
