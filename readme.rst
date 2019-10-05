@@ -4,8 +4,14 @@ CHMA - Centralized Hospital Management & Analysis
 
 In today's fast pacing world, we came up the system which will not only ease the process of midical diagnosis and treatment but also it will bring more security with it.
 
-Purpose & Goals
+Purpose & Goals 
 ------------------
+-> To provide a centralized medical storage of a person for efficent treatment.
+
+-> Right from birth till death, a person encounters various types diseases and medical treatments. And it is a very tideous thing to manage all the different files and prescription provided by different doctors.
+
+-> So CHMA system couters this problem very well by providing all the data at one place with full security.
+
 Security
 -----------
 -> To provide safe transacation, every patient, doctor as well as clinic/hospital will have a unique Id, which will assure the safety and authencity of the whole system.
