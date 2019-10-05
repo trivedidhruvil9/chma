@@ -17,10 +17,13 @@ Security
 *******************
 Security is very crucial when it comes to healthcare. And to build any system around this domain , requires utmost care. For security measures, our system has following protocols :-
 
- -> Every patient has a uniquie ID which can be accesesd by he/she only.
- -> Whenever the patient access the Id a OTP also goes to him/her on her registered mobile number to double check authenticity.
- -> The doctors that can use this software must be registered and approved by the goverment itself.
- -> Every doctor and clinic/hospital has a unique Id assigned so that no scam can take place.
+-> Every patient has a uniquie ID which can be accesesd by he/she only.
+
+-> Whenever the patient access the Id a OTP also goes to him/her on her registered mobile number to double check authenticity.
+
+-> The doctors that can use this software must be registered and approved by the goverment itself.
+
+-> Every doctor and clinic/hospital has a unique Id assigned so that no scam can take place.
  
 This system resembles the structure like 'BLOCKCHAIN'. Similar to it , this system also maintains a sequenced records of the patient's history.
 Also everybody can see, but nobody can edit previous records , which will lead to total security.
