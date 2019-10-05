@@ -51,3 +51,5 @@ Future scope
 -> Also goverment can provide low cost medicines to the people below poverty line and/or who have has fatal diseases.
 
 -> Efficient use of this system can lead to the betterment of the health sector of India.
+
+-> Patient can give honest feedback about the doctor.
