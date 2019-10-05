@@ -2,19 +2,18 @@
 CHMA - Centralized Hospital Management & Analysis
 ###################
 
-In today's fast pacing world, we came up the system which will not only ease the pro_cess of midical diagnosis and treatment but also it will bring more security with it.
+In today's fast pacing world, we came up the system which will not only ease the process of midical diagnosis and treatment but also it will bring more security with it.
 
-*******************
-Purpose & Goals :
-*******************
-Security:-
+Purpose & Goals
+------------------
+Security
 -----------
 -> To provide safe transacation, every patient, doctor as well as clinic/hospital will have a unique Id, which will assure the safety and authencity of the whole system.
 
 -> Just like 'Blockchain', in this system too, data will be added in a sequence, everybody can have copy but nobody can change it.
 ********************
 
-Benefits:-
+Benefits
 ------------
 -> The doctor can have patient's whole history without asking anything, which will help in better diagnosis and treatment.
 
@@ -24,7 +23,7 @@ Benefits:-
 
 *******************
 
-Future Scope:-
+Future Scope
 --------------
 
 -> With the use of this system, millions of people of India can get benefit of it.
