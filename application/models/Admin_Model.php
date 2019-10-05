@@ -86,7 +86,7 @@ public function getDiseaseDetails()
 	
 }
 
-public function getIndiaMapData(){
+public function getIndiaMapData() {
 	
 	//User -> DiesesId ->Pincode
 	$query = $this->db->query("select d.disName as `disName`, a.latitude as `latitude`, a.longitude as `longitude` from disease_details d, area_list a, case_details c where d.disId = c.disId order by d.disName desc");
