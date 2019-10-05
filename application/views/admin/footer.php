@@ -40,6 +40,9 @@
   <!-- Bootstrap core JavaScript-->
   <script src="../assets/vendor/jquery/jquery.min.js"></script>
   <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  
+  <script src="<?php echo base_url();?>assets/js/jquery-jvectormap-2.0.3.min.js"></script>
+  <script src="<?php echo base_url();?>assets/js/jquery-jvectormap-in-mill.js"></script>
 
   <!-- Core plugin JavaScript-->
   <script src="../assets/vendor/jquery-easing/jquery.easing.min.js"></script>

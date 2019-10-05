@@ -31,14 +31,35 @@ class AdminDashboard extends CI_Controller {
 	
 		
 	}
+	public function indiaMapData()
+	{
+	$data = $this->Admin_Model->getIndiaMapData();
+		echo json_encode($data);
+		
+	}
 	public function getDiseaseDetails()
 	{
-		  
 		$data = $this->Admin_Model->getDiseaseDetails();
 		echo json_encode($data);
 	}
+	
 	public function generateData()
 	{
 		$data = $this->Admin_Model->generateData();
+		 require  APPPATH.'/views/vendor/autoload.php';
+
+  $options = array(
+    'cluster' => 'ap2',
+    'useTLS' => true
+  );
+  $pusher = new Pusher\Pusher(
+    'e35ea8ce3cd57f27702e',
+    '9a0386a599b005c5e891',
+    '874828',
+    $options
+  );
+
+  $data['message'] = 'success';
+  $pusher->trigger('my-channel', 'my-event', $data);
 	}
 }
