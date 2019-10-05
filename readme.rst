@@ -40,5 +40,11 @@ Benefits
 Future scope
 *******************
 -> It can become a national service which will help millions of people of India.
+
 -> Patients will get the medicines as per doctor gives online prescription.
--> Citizens will Medicines from government 
+
+-> Citizens will get 100% pure and best quality medicines from government.
+
+-> Also goverment can provide low cost medicines to the people below poverty line and/or who have has fatal diseases.
+
+-> Efficient use of this system can lead to the betterment of the health sector of India.
