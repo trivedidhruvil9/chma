@@ -15,13 +15,14 @@ Our purpose is to make a Digitalize platform for Managing HealthCare Information
 *******************
 Security
 *******************
-
+Coming soon.
 
 *******************
 Benefits
 *******************
-
+Coming soon.
 
 *******************
 Future scope
 *******************
+Coming soon.
